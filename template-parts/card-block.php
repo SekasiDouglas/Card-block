@@ -18,7 +18,6 @@ if( !empty($block['align']) ) {
     $className .= ' align' . $block['align'];
 }
 
-
 echo 'New Card Block ';
 ?>
 
